@@ -66,7 +66,18 @@ let gameCounter = 100;
 console.log(gameCounter);
 
 
+// pw Skills Live Class
 
+let bankBalance ='100'
+let bankBalanceinInt  = parseInt(bankBalance)
+// console.log(bankBalance);
+// console.log(bankBalanceinInt);
+
+
+console.log( typeof bankBalance);
+ console.log(typeof bankBalanceinInt);
+
+//In boolean --> true ; empty value , 0 --> false;
 
 
 
