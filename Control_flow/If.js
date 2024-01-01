@@ -14,7 +14,7 @@ if(temperature == 41){
     console.log("executed");
 }else{
 
-console.log{"temperature is greater than 50"}
+console.log("temperature is greater than 50")
 }
 console.log("executed");
 
