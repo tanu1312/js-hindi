@@ -6,7 +6,7 @@ let accountState;
 
 
 
-//accountId = 2 //not alllowed
+//accountId = 2 //not alllowed, Number And Special Character are Not allowed for Variables Names.
 console.log(accountId);
 
 /*
