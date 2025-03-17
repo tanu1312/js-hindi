@@ -78,6 +78,11 @@ console.log( typeof bankBalance);
  console.log(typeof bankBalanceinInt);
 
 //In boolean --> true ; empty value , 0 --> false;
+// NaN == NaN   False
+// 2 ==2 true
+// 5 + undefined  Nan
+// 5 = null  5
+
 
 
 
