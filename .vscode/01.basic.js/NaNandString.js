@@ -33,7 +33,7 @@ console.log(Numbers.MAX_VALUE);
 
 console.log(Math);
 console.log(Math.random()*10);
-console.log(Math.floor(Math.random()*10); // For round off Value 
+console.log(Math.floor(Math.random()*10)); // For round off Value 
 
 
 
